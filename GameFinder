@@ -1,5 +1,7 @@
 local HubWork = true
 
+if HubWork == true then
 if game.PlaceId == 13370783664 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ExoHubs/ExoHubV2/main/AnimeEnergyV2'))()
+end
 end
