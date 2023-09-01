@@ -1,4 +1,4 @@
-local 13370783664_Working = true
+local 13370783664Working = true
 
 if game.GameId == 13370783664 and 13370783664_Working == true then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ExoHubs/ExoHubV2/main/AnimeEnergyV2'))()
